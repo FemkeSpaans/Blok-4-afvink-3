@@ -1,0 +1,20 @@
+{% extends "base_afvink3.html" %}
+
+{% block title %} Student Piep {% endblock %}
+
+{% block content %}
+    <form method="post">
+    Search word:
+        <input type="text" name=Messages required>
+        <button type="submit"> Submit </button>
+    </form>
+    <p>
+    Messages containing {{ filter }}
+    </p>
+    {% for message in messages %}
+        <p>
+        {{ message }}
+        </p>
+    {% endfor %}
+
+{% endblock %}

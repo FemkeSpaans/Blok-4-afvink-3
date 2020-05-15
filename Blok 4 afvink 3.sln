@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Blok 4 afvink 3", "Blok 4 afvink 3.pyproj", "{5C68B406-FCE9-4023-8604-7DF2971D9D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C68B406-FCE9-4023-8604-7DF2971D9D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C68B406-FCE9-4023-8604-7DF2971D9D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013F5AC4-C9AC-466C-93F9-64EAC5A7D09D}
+	EndGlobalSection
+EndGlobal
